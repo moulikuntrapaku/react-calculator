@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moulikuntrapaku/react-calculator.git/static/css/main.9eddf78d.css",
-    "main.js": "/moulikuntrapaku/react-calculator.git/static/js/main.bce3eadc.js",
-    "static/js/787.efc3d892.chunk.js": "/moulikuntrapaku/react-calculator.git/static/js/787.efc3d892.chunk.js",
-    "index.html": "/moulikuntrapaku/react-calculator.git/index.html",
-    "main.9eddf78d.css.map": "/moulikuntrapaku/react-calculator.git/static/css/main.9eddf78d.css.map",
-    "main.bce3eadc.js.map": "/moulikuntrapaku/react-calculator.git/static/js/main.bce3eadc.js.map",
-    "787.efc3d892.chunk.js.map": "/moulikuntrapaku/react-calculator.git/static/js/787.efc3d892.chunk.js.map"
+    "main.css": "/moulikuntrapaku/react-calculator/static/css/main.9eddf78d.css",
+    "main.js": "/moulikuntrapaku/react-calculator/static/js/main.b4aa22ab.js",
+    "static/js/787.efc3d892.chunk.js": "/moulikuntrapaku/react-calculator/static/js/787.efc3d892.chunk.js",
+    "index.html": "/moulikuntrapaku/react-calculator/index.html",
+    "main.9eddf78d.css.map": "/moulikuntrapaku/react-calculator/static/css/main.9eddf78d.css.map",
+    "main.b4aa22ab.js.map": "/moulikuntrapaku/react-calculator/static/js/main.b4aa22ab.js.map",
+    "787.efc3d892.chunk.js.map": "/moulikuntrapaku/react-calculator/static/js/787.efc3d892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9eddf78d.css",
-    "static/js/main.bce3eadc.js"
+    "static/js/main.b4aa22ab.js"
   ]
 }
